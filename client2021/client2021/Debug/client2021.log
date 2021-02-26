@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\YuraWagner\source\repos\client2021\client2021\main.cpp(8,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  client2021.vcxproj -> C:\Users\YuraWagner\source\repos\client2021\Debug\client2021.exe
